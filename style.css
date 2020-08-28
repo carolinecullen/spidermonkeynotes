@@ -1,0 +1,31 @@
+html {
+  background-color: #e6f2ff;
+  font-family: 'Arial New', Arial, monospace;
+}
+
+body {
+  text-align: 20px;
+  font: 25px;
+  text-align: center;
+}
+
+h1 {
+  color: #00254d;
+}
+
+h2 {
+  color: #003166;
+}
+
+a {
+  float:left;
+  color: #003166;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
